@@ -1,2 +1,3 @@
-# BSIT4B2016Team8
-BSIT 4B Team 8 Main Repository
+# BSIT4B
+
+BSIT 4B A.Y. 2016-2017 Official Repository for Elective Subject
